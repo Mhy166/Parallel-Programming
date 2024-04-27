@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1714141630 source:c:\users\18547\desktop\simd-avx\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	<bitset>
+	<Windows.h>
+	<bits/stdc++.h>
+	<immintrin.h>
+
