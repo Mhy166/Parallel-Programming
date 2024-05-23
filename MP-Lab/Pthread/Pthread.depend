@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716114975 source:c:\users\18547\desktop\pthread\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<sstream>
+	<pthread.h>
+	<Windows.h>
+
