@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1716125354 source:c:\users\18547\desktop\openmp-qj\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+	<fstream>
+	<sstream>
+	<Windows.h>
+	<omp.h>
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1716179806 source:c:\users\18547\desktop\omp-bit-qn\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<set>
+	<sstream>
+	<string>
+	<bitset>
+	<Windows.h>
+	<bits/stdc++.h>
+	<omp.h>
+
